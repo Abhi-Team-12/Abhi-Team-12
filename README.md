@@ -4,9 +4,7 @@
 
 ### Junior Software Engineer | Backend Developer (MERN | NestJS)
 
-📍 India  
-📧 dev.abhi8924@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/) | [GitHub](https://github.com/Abhi-Team-12)
+📍 India  | 📧 dev.abhi8924@gmail.com  | 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/) | 🔗 [GitHub](https://github.com/Abhi-Team-12)
 
 </div>
 
