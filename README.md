@@ -1,75 +1,136 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Abhishek Singh</h1>
-  <p>🌐 MERN Stack Developer | Backend & API Specialist</p>
-  <p>
-    <a href="https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/" target="_blank">LinkedIn</a> |
-    <a href="https://github.com/Abhi-Team-12" target="_blank">GitHub</a> |
-    <a href="mailto:dev.abhi8924@gmail.com">Email</a>
-  </p>
+
+# 👋 Hi, I'm Abhishek Singh
+
+### Junior Software Engineer | Backend Developer (MERN | NestJS)
+
+📍 India  
+📧 dev.abhi8924@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/) | [GitHub](https://github.com/Abhi-Team-12)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-I am a dedicated **MERN Stack Developer** with strong expertise in building **scalable, efficient, and secure web applications**.  
-I specialize in both backend APIs and frontend interfaces, turning ideas into polished products. :contentReference[oaicite:1]{index=1}
+I am a **Junior Software Engineer** with **1+ year of hands-on experience** in **MERN Stack and NestJS**, specializing in building **secure, scalable, and production-ready backend systems**.  
+I have strong expertise in **REST API development**, **JWT authentication**, **Role-Based Access Control (RBAC)**, and clean backend architecture.
 
-- 📍 Based in India  
-- 💻 Passionate about Full-Stack & Backend Development  
-- 🔐 Skilled in building secure REST APIs  
-- 🌱 Always learning new tech and best practices
+I enjoy solving real-world problems, optimizing backend performance, and working on scalable system designs.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Experience
 
-### 💻 Languages
-JavaScript | TypeScript | HTML | CSS
+### **AppWorks Technologies Pvt. Ltd.**  
+**Backend Developer (Node.js / NestJS)**  
+*Sep 2025 – Present*
 
-### 🧠 Backend
-Node.js | Express.js | NestJS | REST APIs  
-Authentication & Authorization (JWT, RBAC)
+- Designed and developed production-grade REST APIs using **NestJS**
+- Implemented **JWT-based authentication** and **RBAC**
+- Built scalable backend modules for users, data, and workflows
+- Optimized relational database schemas and queries
+- Improved API performance, maintainability, and security
+- Created API documentation using **Swagger**
 
-### ⚛️ Frontend
-React.js | Redux | Tailwind CSS | Bootstrap
+---
 
-### 🗄️ Databases
-MongoDB | MySQL
+### **DigiCoders Technologies Pvt. Ltd.**  
+**MERN Stack Developer**  
+*Sep 2024 – Sep 2025*
 
-### 🧰 Tools & Platforms
-Swagger | Postman | VS Code | Git & GitHub
+- Developed RESTful APIs for web & mobile applications
+- Implemented secure authentication and authorization
+- Built MERN stack applications with frontend–backend integration
+- Worked on CRM systems and data-driven workflows
+- Integrated backend APIs with **React.js** frontend
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+- Node.js  
+- NestJS  
+- Express.js  
+- REST APIs  
+
+### Frontend
+- React.js  
+- JavaScript  
+- HTML, CSS  
+- Tailwind CSS, Bootstrap  
+
+### Databases
+- MySQL  
+- MongoDB  
+
+### Tools & Concepts
+- TypeORM, Sequelize  
+- JWT, RBAC  
+- Swagger, Postman  
+- Git & GitHub  
 
 ---
 
 ## 📌 Key Projects
 
-### 🛍️ **E-Commerce Platform (MERN)**
-- Full-stack marketplace with product listing, cart, auth
-- JWT based authentication & secure API flows
+### 📝 Blog Management API
+**Tech:** NestJS, MySQL, TypeORM, JWT, Swagger  
 
-### 🛠️ **Backend API Services**
-- Designed scalable REST APIs with Express & NestJS
-- Role-based access control + detailed API documentation
-
-### 🌐 **Full-Stack Web Apps**
-- Interactive UI using React.js
-- Integrated backend services and dynamic routing
+- Secure and scalable backend REST API
+- Complete CRUD operations
+- JWT authentication with role-based access
+- Guards, middleware, and interceptors
+- Optimized database relationships
+- Fully documented APIs using Swagger
 
 ---
 
-## 📈 GitHub Stats
+### 📢 Advertisement Website Management System
+**Tech:** React, Tailwind CSS, NestJS, MySQL  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi-Team-12&show_icons=true&theme=radical)
-
----
-
-## 💬 Let’s Connect
-
-I am always open to collaborating on exciting projects and opportunities.  
-📫 **Email:** dev.abhi8924@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/ :contentReference[oaicite:2]{index=2}
+- Full-stack advertisement management platform
+- Admin dashboard with role-based access
+- Subscription-based feature control
+- Secure backend APIs with JWT authentication
 
 ---
 
-⭐ *Thanks for visiting my profile — Feel free to explore my projects!*
+### 🤖 Rodic AI Platform
+**Tech:** React, Tailwind CSS  
+
+- Modern and responsive frontend UI
+- Integrated frontend with backend APIs
+- Cross-device compatibility and smooth UX
+
+---
+
+### 🗂️ Rodic Dimenxion CMS
+**Tech:** React, Express.js, Sequelize, MySQL  
+
+- Secure and scalable CMS backend
+- REST APIs for content creation and management
+- Responsive frontend interface
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner – **Coders War 3.0** (DigiCoders Technologies)
+- ⭐ Star Performer of the Batch – DigiCoders Technologies
+
+---
+
+## 📫 Contact & Connect
+
+- 📧 Email: **dev.abhi8924@gmail.com**
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/
+- 🧑‍💻 GitHub:  
+  https://github.com/Abhi-Team-12
+
+---
+
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
