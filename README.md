@@ -1,96 +1,75 @@
-# Hi there 👋, I'm Abhishek Singh  
-
-🚀 **Junior Software Engineer | Backend Developer (MERN | NestJS)**  
-
-I am a passionate backend developer with **1+ year of hands-on experience** in building secure, scalable, and production-ready applications using **Node.js, NestJS, and MERN Stack**.  
-I love designing clean backend architectures and solving real-world problems with code.
+<div align="center">
+  <h1>Hi there 👋, I'm Abhishek Singh</h1>
+  <p>🌐 MERN Stack Developer | Backend & API Specialist</p>
+  <p>
+    <a href="https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/Abhi-Team-12" target="_blank">GitHub</a> |
+    <a href="mailto:dev.abhi8924@gmail.com">Email</a>
+  </p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔧 Backend Developer specializing in **NestJS & Node.js**
-- 🔐 Experience with **JWT Authentication & Role-Based Access Control (RBAC)**
-- 🧩 Strong understanding of **REST APIs & Backend Architecture**
-- 📄 API documentation using **Swagger**
-- 🌱 Currently improving **system design & scalable backend patterns**
+I am a dedicated **MERN Stack Developer** with strong expertise in building **scalable, efficient, and secure web applications**.  
+I specialize in both backend APIs and frontend interfaces, turning ideas into polished products. :contentReference[oaicite:1]{index=1}
+
+- 📍 Based in India  
+- 💻 Passionate about Full-Stack & Backend Development  
+- 🔐 Skilled in building secure REST APIs  
+- 🌱 Always learning new tech and best practices
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Node.js  
-- NestJS  
-- Express.js  
-- REST APIs  
+### 💻 Languages
+JavaScript | TypeScript | HTML | CSS
 
-### Frontend
-- React.js  
-- JavaScript  
-- HTML, CSS  
-- Tailwind CSS, Bootstrap  
+### 🧠 Backend
+Node.js | Express.js | NestJS | REST APIs  
+Authentication & Authorization (JWT, RBAC)
 
-### Databases
-- MySQL  
-- MongoDB  
+### ⚛️ Frontend
+React.js | Redux | Tailwind CSS | Bootstrap
 
-### Tools & Concepts
-- TypeORM, Sequelize  
-- JWT, RBAC  
-- Swagger, Postman  
-- Git & GitHub  
+### 🗄️ Databases
+MongoDB | MySQL
+
+### 🧰 Tools & Platforms
+Swagger | Postman | VS Code | Git & GitHub
 
 ---
 
 ## 📌 Key Projects
 
-### 📝 Blog Management API
-**Tech:** NestJS, MySQL, TypeORM, JWT, Swagger  
-- Secure REST API with authentication & RBAC  
-- Complete CRUD operations  
-- Guards, middleware & interceptors  
-- Optimized database relationships  
+### 🛍️ **E-Commerce Platform (MERN)**
+- Full-stack marketplace with product listing, cart, auth
+- JWT based authentication & secure API flows
+
+### 🛠️ **Backend API Services**
+- Designed scalable REST APIs with Express & NestJS
+- Role-based access control + detailed API documentation
+
+### 🌐 **Full-Stack Web Apps**
+- Interactive UI using React.js
+- Integrated backend services and dynamic routing
 
 ---
 
-### 📢 Advertisement Website Management System
-**Tech:** React, Tailwind CSS, NestJS, MySQL  
-- Full-stack role-based platform  
-- Admin dashboard & subscription-based access  
-- Secure backend APIs  
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi-Team-12&show_icons=true&theme=radical)
 
 ---
 
-### 🤖 Rodic AI Platform
-**Tech:** React, Tailwind CSS  
-- Responsive UI for AI-powered platform  
-- Backend API integration  
-- Cross-device compatibility  
+## 💬 Let’s Connect
+
+I am always open to collaborating on exciting projects and opportunities.  
+📫 **Email:** dev.abhi8924@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/ :contentReference[oaicite:2]{index=2}
 
 ---
 
-### 🗂️ Rodic Dimenxion CMS
-**Tech:** React, Express.js, Sequelize, MySQL  
-- Secure CMS backend  
-- REST APIs for content management  
-- Scalable architecture  
-
----
-
-## 🏆 Achievements
-
-- 🥇 Winner – **Coders War 3.0**
-- ⭐ Star Performer of the Batch – DigiCoders Technologies  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **dev.abhi8924@gmail.com**  
-- 💼 LinkedIn: *(Add your LinkedIn link)*  
-- 🧑‍💻 GitHub: *(Your GitHub profile)*  
-
----
-
-⭐ *If you like my work, feel free to star my repositories!*  
+⭐ *Thanks for visiting my profile — Feel free to explore my projects!*
