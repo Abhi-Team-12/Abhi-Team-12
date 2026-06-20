@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abhishek Singh
 
-### Junior Software Engineer | Backend Developer (MERN | NestJS)
+### SEO Executive | Junior Software Engineer | Backend Developer (MERN | NestJS)
 
 📍 India  | 📧 dev.abhi8924@gmail.com  | 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/) | 🔗 [GitHub](https://github.com/Abhi-Team-12)
 
@@ -12,10 +12,11 @@
 
 ## 🚀 Professional Summary
 
-I am a **Junior Software Engineer** with **1+ year of hands-on experience** in **MERN Stack and NestJS**, specializing in building **secure, scalable, and production-ready backend systems**.  
-I have strong expertise in **REST API development**, **JWT authentication**, **Role-Based Access Control (RBAC)**, and clean backend architecture.
+I am a **Junior Software Engineer and SEO Executive** with **1+ year of hands-on experience** in **MERN Stack, NestJS, and Search Engine Optimization (SEO)**. I specialize in building **secure, scalable, and production-ready backend systems** while also improving website visibility through effective **On-Page, Off-Page, and Technical SEO** strategies.
 
-I enjoy solving real-world problems, optimizing backend performance, and working on scalable system designs.
+I have strong expertise in **REST API development**, **JWT authentication**, **Role-Based Access Control (RBAC)**, keyword research, website optimization, and performance monitoring using industry-standard SEO tools.
+
+I enjoy solving real-world problems, optimizing backend performance, improving search rankings, and working on scalable system designs.
 
 ---
 
@@ -26,63 +27,103 @@ I enjoy solving real-world problems, optimizing backend performance, and working
 **Deedok IT Solutions Pvt. Ltd.**
 *March 2026 – Present*
 
-- Performed comprehensive **On-Page and Off-Page SEO** activities to improve website rankings and organic traffic.
-- Conducted **keyword research**, competitor analysis, and content optimization for targeted search visibility.
-- Optimized website structure, meta tags, headings, URLs, and internal linking strategies.
-- Built high-quality backlinks through guest posting, directory submissions, social bookmarking, and outreach campaigns.
-- Monitored website performance using **Google Search Console**, **Google Analytics**, and **Microsoft Clarity**.
-- Identified and resolved technical SEO issues, including crawl errors, indexing problems, and broken links.
-- Prepared regular SEO performance reports and recommendations to improve search engine rankings and user engagement.
+* Performed comprehensive **On-Page and Off-Page SEO** activities to improve website rankings and organic traffic.
+* Conducted **keyword research**, competitor analysis, and content optimization for targeted search visibility.
+* Optimized website structure, meta tags, headings, URLs, and internal linking strategies.
+* Built high-quality backlinks through guest posting, directory submissions, social bookmarking, and outreach campaigns.
+* Monitored website performance using **Google Search Console**, **Google Analytics**, and **Microsoft Clarity**.
+* Identified and resolved technical SEO issues, including crawl errors, indexing problems, and broken links.
+* Prepared regular SEO performance reports and recommendations to improve search engine rankings and user engagement.
 
+---
 
-### **AppWorks Technologies Pvt. Ltd.**  
-**Backend Developer (Node.js / NestJS)**  
+### Backend Developer (Node.js / NestJS)
+
+**AppWorks Technologies Pvt. Ltd.**
 *Sep 2025 – March 2026*
 
-- Designed and developed production-grade REST APIs using **NestJS**
-- Implemented **JWT-based authentication** and **RBAC**
-- Built scalable backend modules for users, data, and workflows
-- Optimized relational database schemas and queries
-- Improved API performance, maintainability, and security
-- Created API documentation using **Swagger**
+* Designed and developed production-grade REST APIs using **NestJS**
+* Implemented **JWT-based authentication** and **RBAC**
+* Built scalable backend modules for users, data, and workflows
+* Optimized relational database schemas and queries
+* Improved API performance, maintainability, and security
+* Created API documentation using **Swagger**
 
 ---
 
-### **DigiCoders Technologies Pvt. Ltd.**  
-**MERN Stack Developer**  
+### MERN Stack Developer
+
+**DigiCoders Technologies Pvt. Ltd.**
 *Sep 2024 – Sep 2025*
 
-- Developed RESTful APIs for web & mobile applications
-- Implemented secure authentication and authorization
-- Built MERN stack applications with frontend–backend integration
-- Worked on CRM systems and data-driven workflows
-- Integrated backend APIs with **React.js** frontend
-
----
+* Developed RESTful APIs for web & mobile applications
+* Implemented secure authentication and authorization
+* Built MERN stack applications with frontend–backend integration
+* Worked on CRM systems and data-driven workflows
+* Integrated backend APIs with **React.js** frontend
 
 ## 🛠️ Technical Skills
 
 ### Backend
-- Node.js  
-- NestJS  
-- Express.js  
-- REST APIs  
+
+* Node.js
+* NestJS
+* Express.js
+* REST APIs
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Middleware & Guards
+* API Integration
 
 ### Frontend
-- React.js  
-- JavaScript  
-- HTML, CSS  
-- Tailwind CSS, Bootstrap  
+
+* React.js
+* JavaScript (ES6+)
+* HTML5, CSS3
+* Tailwind CSS
+* Bootstrap 5
+* Responsive Web Design
 
 ### Databases
-- MySQL  
-- MongoDB  
 
-### Tools & Concepts
-- TypeORM, Sequelize  
-- JWT, RBAC  
-- Swagger, Postman  
-- Git & GitHub  
+* MySQL
+* MongoDB
+* Database Design
+* Query Optimization
+
+### ORM & Database Tools
+
+* TypeORM
+* Sequelize
+* Mongoose
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* Swagger
+* VS Code
+* NPM
+
+### Concepts
+
+* Authentication & Authorization
+* MVC Architecture
+* CRUD Operations
+* Client-Server Architecture
+* Error Handling
+* API Documentation
+
+### SEO Tools
+
+* Google Search Console
+* Google Analytics
+* Microsoft Clarity
+* Keyword Research
+* On-Page SEO
+* Off-Page SEO
+* Technical SEO
 
 ---
 
