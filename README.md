@@ -4,7 +4,7 @@
 
 ### Backend Developer (Node.js | NestJS | MERN) | SEO Executive
 
-📍 India  | 📧 dev.abhi8924@gmail.com  | 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/) | 🔗 [GitHub](https://github.com/Abhi-Team-12)
+📍 Lucknow, India | 📞 8924036176 | 📧 dev.abhi8924@gmail.com  | 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/) | 🔗 [GitHub](https://github.com/Abhi-Team-12)
 
 </div>
 
@@ -182,11 +182,12 @@ I enjoy solving real-world business problems, building scalable digital solution
 
 ## 📫 Contact & Connect
 
+- 📞 Phone: **8924036176**
 - 📧 Email: **dev.abhi8924@gmail.com**
 - 💼 LinkedIn:  
-  https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/
+  **https://www.linkedin.com/in/abhishek-singh-mern-stack-developer**
 - 🧑‍💻 GitHub:  
-  https://github.com/Abhi-Team-12
+  **https://github.com/Abhi-Team-12**
 
 ---
 
