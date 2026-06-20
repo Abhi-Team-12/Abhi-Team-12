@@ -64,6 +64,8 @@ I enjoy solving real-world business problems, building scalable digital solution
 * Worked on CRM systems and data-driven workflows
 * Integrated backend APIs with **React.js** frontend
 
+---
+
 ## 🛠️ Technical Skills
 
 ### Backend
