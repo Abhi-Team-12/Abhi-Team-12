@@ -21,9 +21,23 @@ I enjoy solving real-world problems, optimizing backend performance, and working
 
 ## 🧑‍💻 Experience
 
+### SEO Executive (On-page/Off-page)
+
+**Deedok IT Solutions Pvt. Ltd.**
+*March 2026 – Present*
+
+- Performed comprehensive **On-Page and Off-Page SEO** activities to improve website rankings and organic traffic.
+- Conducted **keyword research**, competitor analysis, and content optimization for targeted search visibility.
+- Optimized website structure, meta tags, headings, URLs, and internal linking strategies.
+- Built high-quality backlinks through guest posting, directory submissions, social bookmarking, and outreach campaigns.
+- Monitored website performance using **Google Search Console**, **Google Analytics**, and **Microsoft Clarity**.
+- Identified and resolved technical SEO issues, including crawl errors, indexing problems, and broken links.
+- Prepared regular SEO performance reports and recommendations to improve search engine rankings and user engagement.
+
+
 ### **AppWorks Technologies Pvt. Ltd.**  
 **Backend Developer (Node.js / NestJS)**  
-*Sep 2025 – Present*
+*Sep 2025 – March 2026*
 
 - Designed and developed production-grade REST APIs using **NestJS**
 - Implemented **JWT-based authentication** and **RBAC**
