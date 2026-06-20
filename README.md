@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abhishek Singh
 
-### SEO Executive | Junior Software Engineer | Backend Developer (MERN | NestJS)
+### Backend Developer (Node.js | NestJS | MERN) | SEO Executive
 
 📍 India  | 📧 dev.abhi8924@gmail.com  | 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-mern-stack-developer/) | 🔗 [GitHub](https://github.com/Abhi-Team-12)
 
@@ -12,19 +12,22 @@
 
 ## 🚀 Professional Summary
 
-I am a **Junior Software Engineer and SEO Executive** with **1+ year of hands-on experience** in **MERN Stack, NestJS, and Search Engine Optimization (SEO)**. I specialize in building **secure, scalable, and production-ready backend systems** while also improving website visibility through effective **On-Page, Off-Page, and Technical SEO** strategies.
+I am a **Backend Developer (MERN Stack & NestJS) and SEO Executive** with **1.5+ years of hands-on experience in backend and full-stack web development** and **professional experience in Search Engine Optimization (SEO)**, currently working as an SEO Executive.
 
-I have strong expertise in **REST API development**, **JWT authentication**, **Role-Based Access Control (RBAC)**, keyword research, website optimization, and performance monitoring using industry-standard SEO tools.
+I specialize in building **secure, scalable, and production-ready web applications**, designing **RESTful APIs**, implementing **JWT Authentication**, **Role-Based Access Control (RBAC)**, and optimizing application performance using modern development practices.
 
-I enjoy solving real-world problems, optimizing backend performance, improving search rankings, and working on scalable system designs.
+Alongside my professional experience, I work as a **Freelance Developer**, providing end-to-end solutions including **custom software development**, **website development**, **backend development**, **SEO optimization**, **server deployment**, and **website maintenance** for clients across various domains.
+
+My expertise includes **MERN Stack**, **NestJS**, **MySQL**, **MongoDB**, **API Development**, **Technical SEO**, **On-Page SEO**, **Off-Page SEO**, **Google Search Console**, **Google Analytics**, and **Microsoft Clarity**.
+
+I enjoy solving real-world business problems, building scalable digital solutions, improving search visibility, and delivering high-quality products from development to deployment.
 
 ---
 
 ## 🧑‍💻 Experience
 
-### SEO Executive (On-page/Off-page)
-
-**Deedok IT Solutions Pvt. Ltd.**
+### **Deedok IT Solutions Pvt. Ltd.**  
+**SEO Executive (On-page/Off-page)**  
 *March 2026 – Present*
 
 * Performed comprehensive **On-Page and Off-Page SEO** activities to improve website rankings and organic traffic.
@@ -37,9 +40,8 @@ I enjoy solving real-world problems, optimizing backend performance, improving s
 
 ---
 
-### Backend Developer (Node.js / NestJS)
-
-**AppWorks Technologies Pvt. Ltd.**
+### **AppWorks Technologies Pvt. Ltd.**  
+**Backend Developer (Node.js / NestJS)**  
 *Sep 2025 – March 2026*
 
 * Designed and developed production-grade REST APIs using **NestJS**
@@ -51,10 +53,10 @@ I enjoy solving real-world problems, optimizing backend performance, improving s
 
 ---
 
-### MERN Stack Developer
-
-**DigiCoders Technologies Pvt. Ltd.**
+### **DigiCoders Technologies Pvt. Ltd.**  
+**MERN Stack Developer**  
 *Sep 2024 – Sep 2025*
+
 
 * Developed RESTful APIs for web & mobile applications
 * Implemented secure authentication and authorization
